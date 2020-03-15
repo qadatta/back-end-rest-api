@@ -1,0 +1,26 @@
+{"deal-specification": {
+    
+  },
+  "date-specification": {
+    "earliest-date": "012020",
+    "most-recent-date": "012020",
+    "include-issuance": true,
+    "include-remittance": false
+  },
+  "single-response-file-requested": false
+}
+
+{
+  "specification": {
+    "lossTypes": "Both",
+    "selected-group-types": "Both"
+  },
+  "earliest-date": "012020",
+  "latest-date": "012020",
+  "issuance-included": true,
+  "remittance-included": false,
+  "submitted-by": "qa.datta@gmail.com",
+  "request-id": "af55dc10-8790-45a2-94e8-133ec13cd115",
+  "single-response-file-requested": false,
+  "submitted-at": "2020-03-07 01:01:39"
+}
